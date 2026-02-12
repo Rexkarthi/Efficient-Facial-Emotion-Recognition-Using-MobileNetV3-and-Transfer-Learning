@@ -62,28 +62,40 @@ https://www.kaggle.com/datasets/msambare/fer2013
 - Matplotlib
 - Scikit-learn
 
----
-
 ## 📂 Project Structure
 
 FER-Lightweight/
 │
+
 ├── models/
+
 │ ├── baseline_cnn.py
+
 │ ├── mobilenetv3_model.py
+
 │
+
 ├── training/
+
 │ ├── dataset.py
+
 │ ├── train_baseline.py
+
 │ ├── train_mobilenetv3.py
+
 │ ├── evaluate_baseline.py
+
 │ ├── evaluate_mobilenetv3.py
+
 │
-├── preprocessing/
+
 │ ├── fer2013_to_images.py
+
 │
 ├── .gitignore
+
 └── README.md
+
 
 
 ---
