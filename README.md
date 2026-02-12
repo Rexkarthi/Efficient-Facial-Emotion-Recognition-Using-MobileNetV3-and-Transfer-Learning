@@ -96,17 +96,25 @@ FER-Lightweight/
 
 └── README.md
 
-
-
----
-
 ## 📈 Evaluation Metrics
 
 - Accuracy
 - F1-Score
 - Confusion Matrix
 
----
+🎯 Applications
+
+Emotion-aware chatbots
+
+Driver monitoring systems
+
+Smart classrooms
+
+Mental health monitoring
+
+Human-computer interaction systems
+
+Edge AI deployment
 
 ## 🖥️ How to Run
 
